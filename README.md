@@ -1,6 +1,6 @@
 # TL;DR
 
-Use this shell script on macOS to generate all the icon size combinations you need to publish to the iTunes Store.
+Use this shell script on macOS to generate all the icon size combinations you need to publish your app to the iTunes and Google Play stores.
 
 ## How To
 
