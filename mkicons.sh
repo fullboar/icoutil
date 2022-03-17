@@ -38,7 +38,7 @@ AUTHOR:
     Jason <jason.leach@fullboar.ca>
 
 LICENSE:
-    MIT
+    Apache 2.0 
 
 EXAMPLE:
     $0 1024.png ~/out
